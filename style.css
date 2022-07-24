@@ -142,16 +142,16 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin: 50px;
+	margin: 40px;
 	padding-top: 50px;
 }
 a{
-	height: 100px;
+	height: 90px;
 	width: 100px;
-	background-color: #f5f6fa;
+	background-color: none;
 	border-radius: 50px;
-	margin: 10px;
-	box-shadow: 1px 4px 2px 2px #dcdde1;
+	margin: 15px;
+	box-shadow: 1px 4px 2px 2px none;
 	line-height: 110px;
 }
 a i{
