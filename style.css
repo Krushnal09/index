@@ -146,13 +146,14 @@
 	padding-top: 50px;
 }
 a{
-	height: 90px;
+	height: 100px;
 	width: 100px;
-	background-color: none;
+	background-color: ;
 	border-radius: 50px;
 	margin: 15px;
-	box-shadow: 1px 4px 2px 2px none;
+	box-shadow: 1px 4px 2px 2px ;
 	line-height: 110px;
+	justify-content: center;
 }
 a i{
 	transition: all 0.3s linear;
