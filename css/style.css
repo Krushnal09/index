@@ -75,6 +75,11 @@
 	justify-content: center;
 	padding: 49px;
 	z-index: 1;
+	
+  }
+  .content-left a{
+	text-decoration: none;
+	color: black;
   }
   
   .content-right {
@@ -141,4 +146,6 @@
   .footer a {
 	color: white;
   }
-  
+  .m-auto content max-width-1 my-2 {
+
+  }
