@@ -82,11 +82,11 @@
     font-family: var(--font1);
     font-size: 22px;
     cursor: pointer;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.2s ease-in-out;
     }
     .btn2:hover {
     color: white;
-    background:orange;
+    background:#e37029;
     }
   
 }
