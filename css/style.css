@@ -134,16 +134,13 @@
   }
   /* .home-articles{} */
   .more{
-	
-	height: 120%;
+	height: 90px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
   }
-  .more img{
-	height: 100%;
-  }
+
   .footer {
 	height: 50px;
 	background-color: var(--main-bg-color);
@@ -157,4 +154,19 @@
   .footer a {
 	color: white;
   }
-  
+  .btn2 {
+	height: 70px;
+	width: 120px;
+	padding: 0px 20px;
+	padding-top: 3px;
+	border: 2px solid black;
+	border-radius: 10px;
+	font-family: var(--font1);
+	font-size: 22px;
+	cursor: pointer;
+	transition: all 0.3s ease-in-out;
+  }
+  .btn2:hover {
+	color: white;
+	background:orange;
+  }
