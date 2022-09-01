@@ -56,6 +56,12 @@ padding-top: 100px;
     animation: socialicons 0.8s 1;
     animation-fill-mode: forwards;
 }
+.about2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 @keyframes socialicons{
     0%{ top: 90%; left:-50;}
     50%{ top:-60%; left: -10%;}
