@@ -90,3 +90,12 @@
     }
   
 }
+.post-img2 {
+  height: auto;
+  width: auto;
+}
+  
+.post-img2 IMG{
+  height: 70px;
+  width: 90px;
+}

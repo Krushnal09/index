@@ -175,6 +175,23 @@ font-size: 15px;
   .btn2:hover {
 	color: white;
 	background:orange;
+}
+.btn3 {
+	height: 70px;
+	width: 175px;
+	padding: 0px 20px;
+	padding-top: 3px;
+	border: 2px solid black;
+	border-radius: 10px;
+	font-family: var(--font1);
+	font-size: 22px;
+	cursor: pointer;
+	transition: all 0.3s ease-in-out;
   }
-  
-  
+  .btn3:hover {
+	color: white;
+	background:rgb(72, 213, 238);
+}
+
+
+ 
