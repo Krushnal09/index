@@ -15,6 +15,7 @@
 }
 .blog-post-content::after {
     content: "";
+    
     background-image: url("../IMG/11.svg");
     position: absolute;
     top:0;
@@ -75,20 +76,6 @@
     align-self: center;
     cursor: pointer;
 }
-.post-img2{
-    margin-top: 80px;
-    height: 404px;
-    overflow: hidden;
-    
-}
-.post-img2 IMG{
-    display: flex;
+ #iron{
     height: 90%;
-    width: 20%;
-   /* padding-left: 30vw;*/
-    padding-top: 20px;
-    margin: auto;
-    justify-content: center;
-    border-radius: 10px;
-    
-}
+ }

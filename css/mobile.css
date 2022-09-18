@@ -1,4 +1,4 @@
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   .navigation {
     flex-direction: column;
     margin-bottom: 23px;
@@ -89,13 +89,22 @@
     background:#e37029;
     }
   
-}
-.post-img2 {
-  height: 250px;
-  width: auto;
-}
-  
-.post-img2 IMG{
-  
-  width: auto
-}
+    
+    #iron{
+  height: 100%;
+  width: 60%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  }
