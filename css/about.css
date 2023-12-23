@@ -28,19 +28,22 @@ padding-top: 100px;
     overflow: hidden;
 }
 .center a i{
-    transition: all 0.3s linear;
+    transition: transform 0.3s linear;
     
 }
 .center a:hover i{
-    transform: scale(1.4s);
-    color: #f5f6fa;
+    transform: scale(1.2);
+    
 }
 .fa-instagram{
-    color: #e84393;
+ color: #e84393;
 }
 .fa-twitter{
     color: #0097e6;
 
+}
+.fa-linkedin{
+    color: #0a66c2;
 }
 .center a:before{
     content: "";
@@ -52,10 +55,6 @@ padding-top: 100px;
     transform: rotate(60deg);
 
 }
-.center a:hover:before{
-    animation: socialicons 0.8s 1;
-    animation-fill-mode: forwards;
-}
 
 .about2{
     
@@ -63,12 +62,7 @@ padding-top: 100px;
     margin-right: auto;
     width: 50%;
 }
-@keyframes socialicons{
-    0%{ top: 90%; left:-50;}
-    50%{ top:-60%; left: -10%;}
-    100%{top: -10%; left: -10% }
 
-}
 .bg{
     height: 20px;
     display: flex;
